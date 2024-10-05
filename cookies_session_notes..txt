@@ -1,0 +1,24 @@
+ cookies and session both are used to store data
+  cookie store data on browser
+  and session store data on server
+
+   understanding sessions =>
+   1)creating sessions -> install package //npm i express-session
+
+   create
+   req.session.koibhinaam = koibhivalue
+
+   read
+   req.session.koibhinaam
+
+   delete
+   req.session.destroy
+
+   cookies create =>
+   res.cookie('name', value)
+
+   reading cookies
+   req.cookies.name
+
+   deleting ciikies
+   res.clearCookie('name')

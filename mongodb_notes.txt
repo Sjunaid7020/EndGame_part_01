@@ -15,4 +15,7 @@
   par us data ka sub category kehlaata hai collection
   // COllection matlab ki bola users ka data, ek user pe baat kari to hua document
 
-  note
+  client => contain cookie
+  server => hota h session
+
+ 
