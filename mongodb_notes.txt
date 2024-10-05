@@ -14,3 +14,5 @@
   // Ek app mein variety of data hota hai par poora data hota app ka hi hai,
   par us data ka sub category kehlaata hai collection
   // COllection matlab ki bola users ka data, ek user pe baat kari to hua document
+
+  note
