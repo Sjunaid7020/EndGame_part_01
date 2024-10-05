@@ -1,0 +1,16 @@
+1. database store data
+2.there is two type of database Relational databases and Non-Relational databases
+3.code side ->   1)DB setup // when we setup db then DB formation happend in mongoDB
+                 2)Model // if make Model in code then Collection will make in mongoDB
+                 3)Schema // if we make schema then Documents will be make
+ MongoDb side -> 1)DB formation
+                 2)Collection
+                 3)Documents
+
+4. Models(code) => collection(DB)
+5.Schema(code) => documents(DB)
+
+  //Ek app ka poora data => BD
+  // Ek app mein variety of data hota hai par poora data hota app ka hi hai,
+  par us data ka sub category kehlaata hai collection
+  // COllection matlab ki bola users ka data, ek user pe baat kari to hua document
